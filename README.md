@@ -34,7 +34,7 @@ Running the Game
 
 python tic_tac_toe.py
 
-License
+## License
 
 This project is open-source and free to use.
 
